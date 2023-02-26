@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/M3nwJpDEUxkCzVftCi/giphy.gif" width="25px">
+สวัสดี <img src="https://media.giphy.com/media/M3nwJpDEUxkCzVftCi/giphy.gif" width="25px">
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
